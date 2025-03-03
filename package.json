@@ -1,0 +1,27 @@
+{
+  "name": "testing-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "e2e": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonascicek/testing-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonascicek/testing-homework/issues"
+  },
+  "homepage": "https://github.com/jonascicek/testing-homework#readme",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "cypress": "^14.1.0",
+    "jest": "^29.7.0",
+    "mocha": "^11.1.0"
+  }
+}
